@@ -1,0 +1,7 @@
+2022-04-04 22:22:51,193 [1] INFO  NETCorelog4net [(null)] - NETCorelog4net log
+2022-04-04 22:22:51,220 [1] ERROR NETCorelog4net [(null)] - error
+2022-04-04 22:22:51,221 [1] WARN  NETCorelog4net [(null)] - warn
+2022-04-04 22:31:20,466 [1] INFO  NETCorelog4net [(null)] - NETCorelog4net log
+2022-04-04 22:31:20,495 [1] ERROR NETCorelog4net [(null)] - use test menthod to definte the log4
+2022-04-04 22:31:20,495 [1] ERROR NETCorelog4net [(null)] - error
+2022-04-04 22:31:20,495 [1] WARN  NETCorelog4net [(null)] - warn
